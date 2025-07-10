@@ -1,0 +1,56 @@
+
+
+
+.position{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    position: relative;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  
+   
+}
+.position h1{
+    font-size: 35px;
+}
+
+.card__2{
+    margin-top: 90px;
+}
+
+.quti{
+    display: flex;
+  gap: 300px;
+}
+
+.pasition__car{
+    position: absolute;
+ bottom: 0px;
+ right: 0;
+}
+
+.tap p{
+margin-bottom: 20px;
+margin-top: 20px;
+
+}
+
+.tap{
+    padding-top: 30px;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+}
+
+.h1{
+    font-size: 40px;
+}

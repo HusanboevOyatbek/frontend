@@ -1,0 +1,24 @@
+.section__2__menu{
+    padding-top: 90px;
+
+}
+.section__2__menu h1{
+    font-size:45px;
+    margin-bottom: 20px;
+}
+
+.section__2__menu p{
+    margin-bottom: 40px;
+}
+
+
+button {
+    background-color: var(--button);
+}
+
+.b_t_n{
+    width:210px;
+    height: 45px;
+    color: white;
+    border-radius: 10px;
+}

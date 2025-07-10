@@ -1,0 +1,12 @@
+.shartmoma{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.sharnoma img{
+    background-color:#0D5A5B ;
+    border-radius: 50px;
+    
+
+}
